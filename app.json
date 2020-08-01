@@ -1,0 +1,12 @@
+{
+  "name": "covid-rn",
+  "displayName": "covid-rn",
+  "expo": {
+    "name": "covid-rn",
+    "slug": "covid-rn",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
